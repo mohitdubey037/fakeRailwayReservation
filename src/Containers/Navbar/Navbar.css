@@ -1,0 +1,19 @@
+.Navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* margin-left: 10%; */
+    padding: 1rem 0;
+    background-color: #4e4040;
+    color: white;
+}
+
+.Navbar_child {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.Navbar button {
+    height: max-content;
+}

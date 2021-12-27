@@ -1,0 +1,14 @@
+.input_with_error {
+    position: relative;
+    /* height: 105px; */
+    display: flex;
+    flex-direction: column;
+    /* width: 60%; */
+}
+
+.error_para {
+    color: red !important;
+    font-size: 10px !important;
+    /* margin-left: 1rem;
+    margin-top: 0 !important; */
+}

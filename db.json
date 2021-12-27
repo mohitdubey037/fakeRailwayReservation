@@ -1,0 +1,115 @@
+{
+  "posts": [
+    {
+      "source": "indore",
+      "destination": "pipariya",
+      "emailId": "mohitdubey037@gmail.com",
+      "date": "2021-12-29",
+      "id": 1
+    },
+    {
+      "source": "indore",
+      "destination": "pipariya",
+      "emailId": "mohitdubey037@gmail.com",
+      "date": "2021-12-29",
+      "id": 2
+    },
+    {
+      "source": "indore",
+      "destination": "pipariya",
+      "emailId": "mohitdubey037@gmail.com",
+      "date": "2021-12-29",
+      "id": 3
+    },
+    {
+      "source": "indore",
+      "destination": "pipariya",
+      "emailId": "mohitdubey037@gmail.com",
+      "date": "2021-12-29",
+      "id": 4
+    },
+    {
+      "source": "pipariya",
+      "destination": "hyderabad",
+      "emailId": "mohitdubey037@gmail.com",
+      "date": "2021-12-29",
+      "id": 5
+    },
+    {
+      "source": "pipariya",
+      "destination": "hyderabad",
+      "emailId": "mohitdubey037@gmail.com",
+      "date": "2021-12-29",
+      "id": 6
+    },
+    {
+      "source": "pipariya",
+      "destination": "hyderabad",
+      "emailId": "mohitdubey037@gmail.com",
+      "date": "2021-12-29",
+      "id": 7
+    },
+    {
+      "source": "pipariya",
+      "destination": "hyderabad",
+      "emailId": "mohitdubey037@gmail.com",
+      "date": "2021-12-29",
+      "id": 8
+    },
+    {
+      "source": "pipariya",
+      "destination": "hyderabad",
+      "emailId": "mohitdubey037@gmail.com",
+      "date": "2021-12-29",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "email": "mohitdubey037@gmail.com",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "email": "mohitdubey039@yopmail.com",
+      "password": "password",
+      "id": 2
+    },
+    {
+      "email": "mohitdubey037@gmail.com",
+      "password": "password",
+      "id": 3
+    },
+    {
+      "email": "mohitdubey037@gmail.com",
+      "password": "password",
+      "id": 4
+    },
+    {
+      "email": "mohitdubey037@gmail.com",
+      "password": "password",
+      "id": 5
+    },
+    {
+      "email": "mohitdubey039@yopmail.com",
+      "password": "password",
+      "id": 6
+    },
+    {
+      "email": "mohitdubey037@gmail.com",
+      "password": "password",
+      "id": 7
+    },
+    {
+      "email": "mohitdubey037@gmail.com",
+      "password": "password",
+      "id": 8
+    },
+    {
+      "email": "mohitdubey037@gmail.com",
+      "password": "password",
+      "id": 9
+    }
+  ],
+  "profile": {}
+}
